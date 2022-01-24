@@ -6,6 +6,7 @@ public class charAt {
         for(int i=0; i<26; i++){
             arr[i] = num.nextInt();
         }
+        // hello
         String s = num.next();
         int l = 0;
         for(int i=97; i<=122; i++){
